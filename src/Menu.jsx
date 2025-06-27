@@ -3,7 +3,7 @@ const Menu = () => {
         <div className="Menu">
             <ul className="nav">
                 <li className="nav-item">
-                    <a className="nav-link" href="#">Item do Menu</a>
+                    <a className="nav-link" href="/">Item do Menu</a>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link" href="/home">Home</a>
