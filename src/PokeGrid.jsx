@@ -1,7 +1,6 @@
 import poke from "./assets/pokeapi_256.png";
 import eevee from './assets/eevee.jpg';
-import { Container, Row, Col, Image } from 'react-bootstrap';
-import './PokeGrid.css'; // Vamos usar isso para o fundo vermelho
+import './PokeGrid.css'; 
 
 const PokeGrid = () => {
   return (
